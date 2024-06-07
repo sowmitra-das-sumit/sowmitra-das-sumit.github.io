@@ -1,6 +1,11 @@
 title: Jishnu Mahmud
 logo: /assets/img/propic2.JPG
 # description: An individual amused by the possibilities of intelligent machines describing our quantum universe.
-description: An individual fascinated by the potential of intelligent machines to explore and explain the complexities of our quantum universe.
+description: An individual fascinated by the potential of intelligent machines to explore and explain the complexities of our quantum universe
 # show_downloads: False
 theme: jekyll-theme-minimal
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
