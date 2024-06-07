@@ -1,19 +1,20 @@
 # Curriculum Vitae
 
+***
 
 # About
 I am Jishnu Mahmud (he/him), a junior lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at Bangladesh University of Engineering and Technology (BUET). I completed my Electrical and Electronic Engineering (EEE) undergraduate studies at the Bangladesh University of Engineering and Technology (BUET), majoring in Communication and Signal Processing. 
 
 I am seeking PhD opportunities in quantum information and computation for the Fall 2025 session.
 
-
+***
 
 ## Research Interest
 - I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
 
 - My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
-
+***
 
 ## Current Work
 
@@ -22,7 +23,7 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 2. I am also involved in a new research project with [Dr. Fattah](https://scholar.google.com/citations?hl=en&user=qDG3vBUAAAAJ), which aims to develop various algorithms for the dimension reduction of classical data using quantum learning networks so that the reduced  versions can be processed by NISQ quantum networks in the later stages; this method would provide an intelligent quantum alternative to classical autoencoders and principal component analysis, which are computationally costlier and involve the training of many parameters. Currently, we are writing a paper presenting our promising findings.
 
 
-     
+***     
 
 ## Publications
 
@@ -34,7 +35,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 
 
-
+***
 
 
 ## Work Experience
@@ -66,7 +67,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 
 
-
+***
 
   
 ## Education
@@ -85,7 +86,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
       - A grade in English Language, Accounting & Economics
 
 
-
+***
 
 
 ## Selected Academic Projects
@@ -106,8 +107,7 @@ Here are some of the projects I did during my undergrad. Some were course requir
 agricultural irrigation.
 
 
-
-
+***
 
 
 ## Other Interests
