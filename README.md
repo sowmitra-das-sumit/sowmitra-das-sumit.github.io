@@ -35,44 +35,56 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 
 
+
+
 ## Work Experience
 
-*[BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
-   - Lecturer, Computer Science and Engineering, School of Data and Sciences 
-      I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
+   - [BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
+      - Lecturer, Computer Science and Engineering, School of Data and Sciences 
+         I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
 
 
-*[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
-   - Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
-        I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
+
+   
+   - [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
+      - Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
+           I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
 
-*[Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
-   - Teaching Assitant (TA)
-      I worked here as a teaching assistant to help high school students learn IAL physics.
+   
+   
+   - [Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
+      - Teaching Assitant (TA)
+         I worked here as a teaching assistant to help high school students learn IAL physics.
 
 
-*[Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
-   - Teaching Assistant (TA)
-      I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
+   
+   
+   - [Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
+      - Teaching Assistant (TA)
+         I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
+
+
 
 
 
   
 ## Education
 
-***Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
-   - Major- Communication & Signal Processing
-   - Academic Thesis: Quantum Information Processing
-   - CGPA: 3.87/4.00 (Ranked 2nd in my Major, top 10% across all majors in the Dept. of EEE)
+   - **Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
+      - Major- Communication & Signal Processing
+      - Academic Thesis: Quantum Information Processing
+      - CGPA: 3.87/4.00 (Ranked 2nd in my major, top 10% across all majors in the Dept. of EEE)
+   
+   - **International Advanced Level (IAL) from Mastermind English Medium School**
+      - A* grade in Mathematics, Physics, Chemistry & Further Mathematics
+      - World Highest Score in Mathematics
+   
+   - **International General Certificate of Secondary Education (IGCSE)** 
+      - A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
+      - A grade in English Language, Accounting & Economics
 
-***International Advanced Level (IAL) from Mastermind English Medium School**
-   - A* grade in Mathematics, Physics, Chemistry & Further Mathematics
-   - World Highest Score in Mathematics
 
-***International General Certificate of Secondary Education (IGCSE)** 
-   - A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
-   - A grade in English Language, Accounting & Economics
 
 
 
@@ -96,9 +108,11 @@ agricultural irrigation.
 
 
 
-## Other Interests
 
-   In addition to my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching football (soccer) and passionately follow the      
-   Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
+
+## Other Interests
+   
+   - Besides my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching
+   football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
 
 
