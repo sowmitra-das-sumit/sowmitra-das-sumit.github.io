@@ -42,28 +42,28 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
    - [BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
       - Lecturer, Computer Science and Engineering, School of Data and Sciences 
-         I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
+         - I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
 
 
 
    
    - [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
       - Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
-           I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
+           - I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
 
    
    
    - [Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
       - Teaching Assitant (TA)
-         I worked here as a teaching assistant to help high school students learn IAL physics.
+         - I worked here as a teaching assistant to help high school students learn IAL physics.
 
 
    
    
    - [Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
       - Teaching Assistant (TA)
-         I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
+         - I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
 
 
 
