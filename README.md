@@ -91,7 +91,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ## Selected Academic Projects
 
-Here are some of the projects I did during my undergrad. Some were course requirements, some collaborated with friends, and some were to learn a particular topic.
+Here are some of the projects I did during my undergrad. Some were course requirements, some collaborated with friends, and others were to learn a particular topic.
 
 1. [Complete (Transient and Steady State) response of variable multinodal circuits](https://github.com/chacconed/Complete-Transient-and-Steady-State-response-of-variable-multinodal-circuits): We designed software to visualize the response of any passive network defined by the user using a developed graphical user interface. The code used Laplace and   Fourier Transformations to solve RLC electrical circuits.
 
@@ -113,6 +113,6 @@ agricultural irrigation.
 ## Other Interests
    
    - Besides my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching
-   football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
+   football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, watches, LP records, and typewriters!
 
 
