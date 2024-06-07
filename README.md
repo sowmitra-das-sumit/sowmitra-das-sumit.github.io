@@ -9,9 +9,9 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 
 
 ## Research Interest
--I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
+- I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
 
--My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
+- My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
 
 
