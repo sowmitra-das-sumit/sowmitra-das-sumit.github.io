@@ -20,6 +20,8 @@ My research interests are currently aimed at learning broader disciplines of qua
 1. I am also working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
    
 2. I am involved in a new research project with [Dr. Fattah](https://scholar.google.com/citations?hl=en&user=qDG3vBUAAAAJ), which aims to develop various algorithms for the dimension reduction of classical data using quantum learning networks so that the reduced  versions can be processed by NISQ quantum networks in the later stages; this method would provide an intelligent quantum alternative to classical autoencoders and principal component analysis, which are computationally mu   costlier and involve the training of many parameters.
+
+
      
 
 ## Publications
@@ -32,28 +34,29 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 
 
-### Work Experience
+
+## Work Experience
 
 [BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
-
 Lecturer, Computer Science and Engineering, School of Data and Sciences
 I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
 
-[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
 
+[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
 Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
 I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
-[Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
 
+[Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
 I worked here as a teaching assistant to help high school students learn IAL physics.
+
 
 [Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
 I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
 
 
 
-### Education
+## Education
 
 **Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
 Major- Communication & Signal Processing
@@ -70,7 +73,7 @@ A grade in English Language, Accounting & Economics
 
 
 
-### Selected Academic Projects
+## Selected Academic Projects
 
 Here are some of the projects I did during my undergrad. Some were course requirements, some collaborated with friends, and some were to learn a particular topic.
 
@@ -88,7 +91,9 @@ Here are some of the projects I did during my undergrad. Some were course requir
 agricultural irrigation.
 
 
-**Other Interests**
+
+
+## Other Interests
 
 In addition to my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
 
