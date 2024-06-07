@@ -9,9 +9,9 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 
 
 ## Research Interest
-I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
+-I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
 
-My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
+-My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
 
 
@@ -37,44 +37,42 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ## Work Experience
 
-[BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
-Lecturer, Computer Science and Engineering, School of Data and Sciences 
-
-I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
-
-
-[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
-Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
-
-I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
+*[BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
+   - Lecturer, Computer Science and Engineering, School of Data and Sciences 
+      I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
 
 
-[Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
+*[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
+   - Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
+        I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
-I worked here as a teaching assistant to help high school students learn IAL physics.
+
+*[Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
+   - Teaching Assitant (TA)
+      I worked here as a teaching assistant to help high school students learn IAL physics.
 
 
-[Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
-
-I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
+*[Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
+   - Teaching Assistant (TA)
+      I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
 
 
 
+  
 ## Education
 
-**Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
+***Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
+   - Major- Communication & Signal Processing
+   - Academic Thesis: Quantum Information Processing
+   - CGPA: 3.87/4.00 (Ranked 2nd in my Major, top 10% across all majors in the Dept. of EEE)
 
-- Major- Communication & Signal Processing
-- Academic Thesis: Quantum Information Processing
-- CGPA: 3.87/4.00 (Ranked 2nd in my Major, top 10% across all majors in the Dept. of EEE)
+***International Advanced Level (IAL) from Mastermind English Medium School**
+   - A* grade in Mathematics, Physics, Chemistry & Further Mathematics
+   - World Highest Score in Mathematics
 
-**International Advanced Level (IAL) from Mastermind English Medium School**
-A* grade in Mathematics, Physics, Chemistry & Further Mathematics
-World Highest Score in Mathematics
-
-**International General Certificate of Secondary Education (IGCSE)** 
-A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
-A grade in English Language, Accounting & Economics
+***International General Certificate of Secondary Education (IGCSE)** 
+   - A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
+   - A grade in English Language, Accounting & Economics
 
 
 
@@ -88,7 +86,7 @@ Here are some of the projects I did during my undergrad. Some were course requir
 
 4. [Intelligent Traffic Control](https://github.com/chacconed/Intelligent-Traffic-Control-a-DLD-project): We designed an intelligent traffic system sensitive to various parameters such as volume, flow, and human emergencies using sequential logical circuits and finite state machines (FSM).
 
-5. [Biometric Fingerprint Sensor Attendance System with Fever Detection—An IOT-based solution](https://github.com/chacconed/IOT-based-Fingerprint-system-Poject-) (Microprocessor & Embedded system project): We developed a fingerprint attendance system using NodeMCU and Arduino. We further designed a server that ran hypertext protocols (HTTP) to request to read and write data to the database once the device was connected to a computer.
+5. [Biometric Fingerprint Sensor Attendance System with Fever Detection—An IOT-based solution](https://github.com/chacconed/IOT-based-Fingerprint-system-Poject-) (Microprocessor & Embedded system project): We developed a fingerprint attendance system using NodeMCU and Arduino. We further designed a server running hypertext protocols (HTTP) to request to read and write data to the database once the device was connected to a computer.
 
 6. Investigating the effects of HVDC connection and large industrial loads in IEEE 39-bus networking using PSAF: We investigated the various types of faults occurring under different loading conditions in a multi-bus power system.
 
@@ -100,6 +98,7 @@ agricultural irrigation.
 
 ## Other Interests
 
-In addition to my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
+   In addition to my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching football (soccer) and passionately follow the      
+   Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
 
 
