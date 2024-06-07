@@ -262,6 +262,11 @@ footer {
   // .img-circle {
   //   // display: none !important;
   // }
+
+  .img-circle {
+  border-radius: 50%;
+}
+  
 }
 
 @media print, screen and (max-width: 720px) {
