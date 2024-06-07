@@ -55,7 +55,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
    
    
    - [Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
-      - Teaching Assitant (TA)
+      - Teaching Assistant (TA)
          - I worked here as a teaching assistant to help high school students learn IAL physics.
 
 
