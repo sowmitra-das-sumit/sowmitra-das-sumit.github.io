@@ -7,43 +7,50 @@ I am Jishnu Mahmud (he/him), a junior lecturer at BRAC University and a research
 I am seeking PhD opportunities in quantum information and computation for the Fall 2025 session.
 
 
+
 ## Research Interest
 I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
 
 My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
 
-### Current Work
+
+## Current Work
 
 1. I am also working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
    
 2. I am involved in a new research project with [Dr. Fattah](https://scholar.google.com/citations?hl=en&user=qDG3vBUAAAAJ), which aims to develop various algorithms for the dimension reduction of classical data using quantum learning networks so that the reduced  versions can be processed by NISQ quantum networks in the later stages; this method would provide an intelligent quantum alternative to classical autoencoders and principal component analysis, which are computationally mu   costlier and involve the training of many parameters.
      
 
-### Publications
+## Publications
 
 1. [Quantum convolutional neural networks with interaction layers for classification of classical data](https://link.springer.com/article/10.1007/s42484-024-00145-4)
 **Mahmud, J.,** Mashtura, R., Fattah, S.A. and Saquib, M., 2024. Quantum Machine Intelligence, 6(1), p.11. [PDF](https://arxiv.org/pdf/2307.11792)
 
 2. [A Parallel Quantum Feature Encoding Scheme for Effective Classical Data Classification in Quantum Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/10322543)
-Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TENCON 2023-2023 IEEE Region 10 Conference (TENCON) (pp. 1-5). IEEE. [IEE Xplore](https://ieeexplore.ieee.org/abstract/document/10322543) 
+Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TENCON 2023-2023 IEEE Region 10 Conference (TENCON) (pp. 1-5) [IEEE.](https://ieeexplore.ieee.org/abstract/document/10322543) 
+
 
 
 ### Work Experience
 
-**[BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud)** - (_June 2023 - current_)
+[BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
+
 Lecturer, Computer Science and Engineering, School of Data and Sciences
 I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
 
-**[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/)** (_June 2023 - current_)
+[Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
+
 Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
 I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
-**Edbase** (_August 2017 - October 2018_)
+[Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
+
 I worked here as a teaching assistant to help high school students learn IAL physics.
 
-**[Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk)** (_January 2016 - May 2018_)
+[Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
 I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
+
 
 
 ### Education
@@ -62,7 +69,9 @@ A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
 A grade in English Language, Accounting & Economics
 
 
+
 ### Selected Academic Projects
+
 Here are some of the projects I did during my undergrad. Some were course requirements, some collaborated with friends, and some were to learn a particular topic.
 
 1. [Complete (Transient and Steady State) response of variable multinodal circuits](https://github.com/chacconed/Complete-Transient-and-Steady-State-response-of-variable-multinodal-circuits): We designed software to visualize the response of any passive network defined by the user using a developed graphical user interface. The code used Laplace and   Fourier Transformations to solve RLC electrical circuits.
@@ -80,6 +89,7 @@ agricultural irrigation.
 
 
 **Other Interests**
+
 In addition to my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, LP records, and typewriters!
 
 
