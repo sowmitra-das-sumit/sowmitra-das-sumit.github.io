@@ -3,7 +3,7 @@
 ***
 
 # About
-I am Jishnu Mahmud (he/him), a junior lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at Bangladesh University of Engineering and Technology (BUET). I completed my Electrical and Electronic Engineering (EEE) undergraduate studies at the Bangladesh University of Engineering and Technology (BUET), majoring in Communication and Signal Processing. 
+I am Jishnu Mahmud, a junior lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at Bangladesh University of Engineering and Technology (BUET). I completed my Electrical and Electronic Engineering (EEE) undergraduate studies at the Bangladesh University of Engineering and Technology (BUET), majoring in Communication and Signal Processing. 
 
 I am seeking PhD opportunities in quantum information and computation for the Fall 2025 session.
 
@@ -37,6 +37,13 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ***
 
+## Test Score
+
+1. TOEFL: 116/120 (Reading: 30/30, Listening: 30/30, Speaking: 27/30, Writing: 29/30)
+
+
+***
+
 
 ## Work Experience
 
@@ -48,8 +55,9 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
    
    - [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
-      - Research Assistant (RA) under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
-           - I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
+      - Research Assistant (RA) at [Institute of Robotics and Automation](https://irab.buet.ac.bd/)
+           under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
+         - I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
 
    
@@ -81,7 +89,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
       - A* grade in Mathematics, Physics, Chemistry & Further Mathematics
       - World Highest Score in Mathematics
    
-   - **International General Certificate of Secondary Education (IGCSE)** 
+   - **International General Certificate of Secondary Education (IGCSE) from South Breeze School** 
       - A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
       - A grade in English Language, Accounting & Economics
 
