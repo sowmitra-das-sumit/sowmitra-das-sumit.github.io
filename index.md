@@ -49,7 +49,9 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
    - [BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
       - Lecturer, Computer Science and Engineering, School of Data and Sciences 
-         - I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques. 
+         - I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques.
+
+   At BRAC University, I have co-designed the CSE 481 (Quantum Computing 1) course and offered it after a year of dormancy. We strive to promote and educate quantum computing 1 to undergraduates from different backgrounds. I am co-organizing a lecture series on Quantum Information by Dr. Tibra Ali, a weekly open-to-all lecture series with meet and greet of students from all over Bangladesh interested in learning quantum computing. I aim to promote, educate, and teach quantum computation and information to the new generation of bright Bangladeshi Undergraduates.
 
 
 
