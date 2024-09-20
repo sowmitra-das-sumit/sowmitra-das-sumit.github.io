@@ -123,6 +123,6 @@ agricultural irrigation.
 ## Other Interests
    
    - Besides my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching
-   football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, watches, LP records, and typewriters!
+   football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, watches, LP records, and pens!
 
 
