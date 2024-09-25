@@ -34,7 +34,7 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TENCON 2023-2023 IEEE Region 10 Conference (TENCON) (pp. 1-5) [IEEE](https://ieeexplore.ieee.org/abstract/document/10322543).
 
 3. [Patch-Based End-to-End Quantum Learning Network for Reduction and Classification of Classical Data](https://arxiv.org/abs/2409.15214)
-**Mahmud, J.,** & Fattah, S.A. arxiv pre-print [[PDF]](https://arxiv.org/pdf/2409.15214).
+**Mahmud, J.,** and Fattah, S.A. arxiv pre-print [[PDF]](https://arxiv.org/pdf/2409.15214).
 
 
 
