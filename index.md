@@ -27,14 +27,17 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 
 ## Publications & Preprints
 
-1. [Quantum convolutional neural networks with interaction layers for classification of classical data](https://link.springer.com/article/10.1007/s42484-024-00145-4)
+
+1. [Patch-Based End-to-End Quantum Learning Network for Reduction and Classification of Classical Data](https://arxiv.org/abs/2409.15214)
+**Mahmud, J.,** and Fattah, S.A. arxiv pre-print [[PDF]](https://arxiv.org/pdf/2409.15214).
+
+2. [Quantum convolutional neural networks with interaction layers for classification of classical data](https://link.springer.com/article/10.1007/s42484-024-00145-4)
 **Mahmud, J.,** Mashtura, R., Fattah, S.A. and Saquib, M., 2024. Quantum Machine Intelligence, 6(1), p.11. [[PDF]](https://arxiv.org/pdf/2307.11792)
 
-2. [A Parallel Quantum Feature Encoding Scheme for Effective Classical Data Classification in Quantum Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/10322543)
+3. [A Parallel Quantum Feature Encoding Scheme for Effective Classical Data Classification in Quantum Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/10322543)
 Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TENCON 2023-2023 IEEE Region 10 Conference (TENCON) (pp. 1-5) [IEEE](https://ieeexplore.ieee.org/abstract/document/10322543).
 
-3. [Patch-Based End-to-End Quantum Learning Network for Reduction and Classification of Classical Data](https://arxiv.org/abs/2409.15214)
-**Mahmud, J.,** and Fattah, S.A. arxiv pre-print [[PDF]](https://arxiv.org/pdf/2409.15214).
+
 
 
 
