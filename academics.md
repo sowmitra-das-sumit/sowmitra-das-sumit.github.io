@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Academics
-You can find a synopsis of my academic journey here. I used to do a lot of math competitions in high school. I studied Electrical Engineering in undergrad (with a focus in Communications, Signal Processing and Electronics). I self-studied most undergrad Physics during my EE degree, and then shifted to do a Masters in Applied Mathematics. I am currently teaching at the Department of Computer Science & Engineering at BRAC University, and doing research in Quantum Information/Computation. 
+You can find a synopsis of my academic journey here. I used to do a lot of math competitions in high school. I studied Electrical Engineering in undergrad (with a focus in Communications, Signal Processing and Electronics). I self-studied most of undergrad Physics during my EE degree, and then shifted to do a Masters in Applied Mathematics. I am currently teaching at the Department of Computer Science & Engineering at BRAC University, and doing research in Quantum Information/Computation. 
 
 ## Research Affiliations
 - *Visting Researcher* (2023 - Present)\
