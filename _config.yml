@@ -31,6 +31,8 @@ sidebar:
     link: ./teaching.html
   - name: Research
     link: ./research.html
+  - name: Seminars
+    link: ./seminars.html
   - name: Others
     link: ./others.html
 
