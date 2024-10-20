@@ -8,6 +8,11 @@ My research interests are broadly in all aspects of Quantum Information Theory a
 
 Apart from these practical interests, I also have some highly theoretical ones, particularly... I am interested in exploring the foundations of Thermodynamics. I have also dabbled in Machine Learning, Deep Learning and Neural Networks in the past (with publications in CVPR and IEEE Transactions). 
 
+### Preprints
+[Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2305.00368), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
+
+[Quantumizing Classical Games: An Introduction to Quantum Game Theory](https://arxiv.org/abs/2305.00368), **S. Das**, arXiv: 2305.00368 [quant-ph]. 
+
 ### Publications 
 [Design of a quantum repeater using quantum circuits and benchmarking its performance on an IBM quantum computer](https://doi.org/10.1007/s11128-021-03189-8), **S. Das**, M. S. Rahman, and M. Majumdar, *Quantum Information Processing 20*, 245 (2021).
 
@@ -15,9 +20,13 @@ Apart from these practical interests, I also have some highly theoretical ones, 
 
 [Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint](https://doi.org/10.1109/TITS.2019.2911727), U. Kamal, T. I. Tonmoy, **S. Das** and M. K. Hasan,  *IEEE Transactions on Intelligent Transportation Systems* 21, pp. 1-13, 2019.
 
-### Preprints
-[Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2305.00368), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
+### (Supervised) Undergraduate Dissertations
+[Quantum Error Correction using Quantum Convolutional Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14966)\
+We propose a method for designing Quantum Error Correction Codes for generalized noise models using  Quantum Convolutional Neural Networks. 
 
-[Quantumizing Classical Games: An Introduction to Quantum Game Theory](https://arxiv.org/abs/2305.00368), **S. Das**, arXiv: 2305.00368 [quant-ph]. 
+[An Entropy-based Active-Learning schedule for training Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14809)\
+We propose a training schedule based on an entropy-based uncertainty metric to reduce the number of iterations and computational cost of training neural networks. 
+
+
 
 [back](./)
