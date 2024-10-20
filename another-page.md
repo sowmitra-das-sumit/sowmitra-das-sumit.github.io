@@ -11,9 +11,9 @@ Spring 2024: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHq
 Fall 2024: 
 ### CSE481/CSE490.2: Quantum Computing I
 Summer 2024: [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz&si=2IcmmY5cVnr8wur1)\
-Summer 2020: [Videos](https://youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb&si=-PETH2xR8QmGPRZr), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhABt-6D1R6njy9k2kVHz8-&si=baaqFvOy3ursywUF), [Live Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn&si=RiyooGTnwY2IojXv)
+Summer 2020: [Live Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn&si=RiyooGTnwY2IojXv), [Videos](https://youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb&si=-PETH2xR8QmGPRZr), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhABt-6D1R6njy9k2kVHz8-&si=baaqFvOy3ursywUF) 
 ### PHY430: Quantum Information Theory
-Spring 2022: [Videos](https://youtube.com/playlist?list=PLvj5w6iNZqVgt_bqYyfAbZb0uD4SxtZoD&si=OqiusS9CyYScQV1k), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhCqlGPUrflBo7nDufNCMAd&si=QNzoDbqmZCL9WJu6)
+Spring 2022: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVgt_bqYyfAbZb0uD4SxtZoD&si=OqiusS9CyYScQV1k), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhCqlGPUrflBo7nDufNCMAd&si=QNzoDbqmZCL9WJu6)
 
 ### CSE251: Electronic Devices and Circuits
 Summer 2020: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVhrJA2k83Fes8DCvEqbaL0M&si=ll1z_U5Vwnx8rzjM), [Labs](https://youtube.com/playlist?list=PLvj5w6iNZqVhDq-MFptvpy_Ct99iDx5m1&si=iQhdg4ysei89aWGC)\
