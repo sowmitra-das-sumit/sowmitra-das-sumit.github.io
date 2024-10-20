@@ -4,9 +4,11 @@ layout: default
 
 ## Research
 
-My research interests are broadly in all aspects of Quantum Information Theory and Quantum Computation. Currently, I am interested in techniques that can bridge the gap between the Noisy Intermediate-Scale Quantum (NISQ) era and the Fault Tolerance era. This includes Quantum Error Correction (QEC), Quantum Error Mitigation (QEM) and ways to combine aspects of both. I am also interested in Hybrid Quantum-Classical Computation, i.e, developing techniques to make use of small scale quantum computers as helpers to classical computers, and explore what computational advantages we can gain in this regime.
+My research interests (right now) are broadly in all aspects of Quantum Information Theory and Quantum Computation. Currently, I am interested in techniques that can bridge the gap between the Noisy Intermediate-Scale Quantum (NISQ) era and the Fault Tolerance era. This includes Quantum Error Correction (QEC), Quantum Error Mitigation (QEM) and ways to combine aspects of both. I am also interested in Hybrid Quantum-Classical Computation, i.e, developing techniques to make use of small scale quantum computers as helpers to classical computers, and explore what computational advantages we can gain in this regime.
 
 Apart from these practical interests, I also have some highly theoretical ones. Particularly... I am interested in exploring the foundations of Thermodynamics. I have also dabbled in Machine Learning, Deep Learning and Neural Networks in the past (with publications in CVPR and IEEE Transactions). 
+
+<br>
 
 ### Preprints
 [Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2305.00368), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
