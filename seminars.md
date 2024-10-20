@@ -4,7 +4,7 @@ layout: default
 
 ## Seminars
 
-I am currently hosting *Qu*antum *I*nformation and *C*omputation (_QuIC_) seminars at BRAC University. We have weekly sessions on Thursdays at 5 PM. It is open for everyone. If you are interested to join, please email me. 
+I am currently hosting **Qu**antum **I**nformation and **C**omputation (_QuIC_) seminars at BRAC University. We have weekly sessions on **Thursdays** at **5 PM**. It is open for everyone. If you are interested to join, please email me. 
 
 I have delivered a number of research and pedagogical seminars in the past. You can find recordings of them below. 
 
