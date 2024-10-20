@@ -11,7 +11,7 @@ I have been teaching at the School of Data and Sciences at [BRAC University](htt
 2024 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT&si=8Rt2N6TXlppnJrz3), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT&si=hYdKyiK2taefL-HB), [Notes](https://www.overleaf.com/read/dtxxdftjsfqt#837308)
 ### CSE481/CSE490.2: Quantum Computing I
 2024 Summer: [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz&si=2IcmmY5cVnr8wur1)\
-2020 Summer: [Live Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn&si=RiyooGTnwY2IojXv), [Videos](https://youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb&si=-PETH2xR8QmGPRZr), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhABt-6D1R6njy9k2kVHz8-&si=baaqFvOy3ursywUF) 
+2020 Summer: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn&si=RiyooGTnwY2IojXv), [Videos](https://youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb&si=-PETH2xR8QmGPRZr), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhABt-6D1R6njy9k2kVHz8-&si=baaqFvOy3ursywUF) 
 ### PHY430: Quantum Information Theory
 2022 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVgt_bqYyfAbZb0uD4SxtZoD&si=OqiusS9CyYScQV1k), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhCqlGPUrflBo7nDufNCMAd&si=QNzoDbqmZCL9WJu6)
 
