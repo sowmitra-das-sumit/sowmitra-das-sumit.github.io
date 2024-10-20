@@ -21,8 +21,8 @@ You can find a synopsis of my academic journey here. I used to do a lot of math 
   Grade: Distinction (85%)\
   *Modules:* Quantum Mechanics, Quantum Information, Advanced Quantum Information,\
              Quantum Computation, Post-Quantum Cryptography, Information Theory, \
-             Optimization, Computational Linear Algebra, Dynamics of Learning \& Iterated Games,\
-             Mathematical Foundations of Machine Learning,  Tensor Calculus \& General Relativity
+             Optimization, Computational Linear Algebra, Dynamics of Learning and Iterated Games,\
+             Mathematical Foundations of Machine Learning,  Tensor Calculus and General Relativity
 
 - **Bangladesh University of Engineering & Technology**\
   *Bachelor of Science*, Electrical & Electronic Engineering (2015-2019)\
