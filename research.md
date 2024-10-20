@@ -13,6 +13,7 @@ Apart from these practical interests, I also have some highly theoretical ones. 
 
 [Quantumizing Classical Games: An Introduction to Quantum Game Theory](https://arxiv.org/abs/2305.00368), **S. Das**, arXiv: 2305.00368 [quant-ph]. 
 
+<br>
 
 ### Publications 
 [Design of a quantum repeater using quantum circuits and benchmarking its performance on an IBM quantum computer](https://doi.org/10.1007/s11128-021-03189-8), **S. Das**, M. S. Rahman, and M. Majumdar, *Quantum Information Processing 20*, 245 (2021).
@@ -21,6 +22,7 @@ Apart from these practical interests, I also have some highly theoretical ones. 
 
 [Automatic Traffic Sign Detection and Recognition Using SegU-Net and a Modified Tversky Loss Function with L1-Constraint](https://doi.org/10.1109/TITS.2019.2911727), U. Kamal, T. I. Tonmoy, **S. Das** and M. K. Hasan,  *IEEE Transactions on Intelligent Transportation Systems* 21, pp. 1-13, 2019.
 
+<br> 
 
 ### (Supervised) Undergraduate Dissertations
 [Quantum Error Correction using Quantum Convolutional Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14966)\
