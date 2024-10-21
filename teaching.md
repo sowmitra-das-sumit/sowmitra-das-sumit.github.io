@@ -6,6 +6,8 @@ layout: default
 
 I have been teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/) since September, 2019. I am currently a Senior Lecturer there. You can find below the course materials for the various courses I have taught. All of my lecture videos are available in my YouTube Channel [Rough Khata](https://www.youtube.com/@raf-khata) (which is the bengali for "scratch paper"). 
 
+<br>
+
 #### CSE482: Quantum Computing II
 2024 Fall: \
 2024 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT&si=8Rt2N6TXlppnJrz3), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT&si=hYdKyiK2taefL-HB), [Notes](https://www.overleaf.com/read/dtxxdftjsfqt#837308)
