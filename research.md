@@ -8,9 +8,15 @@ My research interests (right now) are broadly in all aspects of Quantum Informat
 
 Apart from these practical interests, I also have some highly theoretical ones. Particularly... I am interested in exploring the foundations of Thermodynamics. I have also dabbled in Machine Learning, Deep Learning and Neural Networks in the past (with publications in CVPR and IEEE Transactions). 
 
-I am currently running an ad-hoc research group at BRACU, titled **Qu**antum **I**nformation **R**esearch **C**ollaboration (QuIRC). Some areas that we are working on - Quantum Error Correction, Learning-based Quantu Error Mitigation, Shadow Tomography, Quantum Channel Discrimination, Quantum Neural Networks.  
+I am currently running an ad-hoc research group at BRACU, titled **Qu**antum **I**nformation **R**esearch **C**ollaboration (**QuIRC**, pronounced _koo-ark_). Some areas that our work covers - Quantum Error Correction, Learning-based Quantum Error Mitigation, Shadow Tomography, Quantum Neural Networks, Quantum Channel Discrimination, Quantum Superchannels, Entanglement Purification, Quantum Repeaters. If you are interested in collaborating with me, give me an email!
 
 <br>
+
+  ### Ongoing Projects
+- **Learning Quantum Error Mitigation using Classical Shadows**, with Jishnu Mahmud and Shadman Shahriar
+- **Cryptographic Advantage of Quantum Secure Direct Communication**, with Shihan Sajeed
+
+<br> 
 
 ### Preprints
 [Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2305.00368), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
@@ -29,10 +35,10 @@ I am currently running an ad-hoc research group at BRACU, titled **Qu**antum **I
 <br> 
 
 ### (Supervised) Undergraduate Dissertations
-[Quantum Error Correction using Quantum Convolutional Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14966)\
+[Quantum Error Correction using Quantum Convolutional Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14966), Niloy Deb Roy, Ridwan Shihab, Mekhala Marium, Fatema Islam Meem, Mushfiqur Rahman Heemel\
 We propose a method for designing Quantum Error Correction Codes for generalized noise models using  Quantum Convolutional Neural Networks. 
 
-[An Entropy-based Active-Learning schedule for training Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14809)\
+[An Entropy-based Active-Learning schedule for training Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14809), Mehadi Hasan, Shemonto Das, Shoaib Ahmed\
 We propose a training schedule based on an entropy-based uncertainty metric to reduce the number of iterations and computational cost of training neural networks. 
 
 
