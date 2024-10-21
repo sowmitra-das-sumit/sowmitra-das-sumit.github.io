@@ -23,4 +23,10 @@ I have been teaching at the School of Data and Sciences at [BRAC University](htt
 2022 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVgmrLWcUvi1GLRPLSK_Pd3X&si=l5Jassuf7FtGBqi8), [Labs](https://youtube.com/playlist?list=PLvj5w6iNZqVg0KSjAqQyiL--B3NXorHNk&si=51CHzHZ_H597Ac57)\
 2020 Summer: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVhrJA2k83Fes8DCvEqbaL0M&si=ll1z_U5Vwnx8rzjM), [Labs](https://youtube.com/playlist?list=PLvj5w6iNZqVhDq-MFptvpy_Ct99iDx5m1&si=iQhdg4ysei89aWGC)
 
+
+<br> 
+
+
+Apart from my day job, I also volunteer as a **Quantum Information Mentor** at the [Tensor-PSI Winter School for Theoretical Physics](https://tensorcollege.org/tensor-psi-undergraduate-winter-school-for-theoretical-physics/). 
+
 [back](./)
