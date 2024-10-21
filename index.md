@@ -4,6 +4,6 @@ This is the personal website of Sowmitra Das (Sumit). I am a Visiting Researcher
 
 My current interests lie in bridging the gap between the NISQ era and the Fault-Tolerance era of Quantum Computing. As such, my specific interests are in the fields of Quantum Error Correction, Mitigation and Hybrid Quantum-Classical Computation. I am also interested in developing high-level programming primitives for designing next-generation Quantum Algorithms. 
 
-I teach Quantum Computing courses at BRAC University. In the past, I have worked on designing nerual netoworks for image classification tasks. 
+I teach Quantum Computing courses at BRAC University. In the past, I have also worked on designing (classical :P ) nerual networks for image classification tasks. 
 
 You can find links to all of my activities on the sidebar. 
