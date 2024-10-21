@@ -10,7 +10,7 @@ I have delivered a number of research and pedagogical talks in the past. You can
 
 - **Quantum Computing and Machine Learning Bootcamp**, BRAC University, 2020. ([Recordings](https://youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK))
 - **Crash-Course on Density Matrices**, 2022. ([Recording](https://youtu.be/CQ6Yb_YFugA?si=fsDDXmPbFLV54HDO))
-- **Lectures on Statistical Mechanics and Thermodynamics**, 2021. ([Recordings](https://youtube.com/playlist?list=PLvj5w6iNZqVj3Zin7PMjILhGGerEwTbz2))
+- **Lectures on Classical Thermodynamics and Statistical Mechanics**, 2021. ([Recordings](https://youtube.com/playlist?list=PLvj5w6iNZqVj3Zin7PMjILhGGerEwTbz2))
 - **Introduction to (Classical) Information Theory**, 2021. [Link](https://youtu.be/BT_SZZl7nVQ?si=ysEMkEStZBTZnG-j)
 - **Introduction to Quantum Repeaters**, 2021. [Link](https://youtu.be/NPk-ZyAC86g?si=I0JhTVMGHuSVrLyQ)
 - **From Schrodinger to Shannon: An Introduction to Quantum Information Theory**, Satyen Bose Science Club, Bangladesh University of Engineering  Technology, 2019. ([Recordings](https://youtube.com/playlist?list=PLvj5w6iNZqVi4bGpqY49ikxlHr1NGU7Nw))
