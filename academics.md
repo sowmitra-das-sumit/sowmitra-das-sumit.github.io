@@ -6,7 +6,7 @@ You can find a synopsis of my academic journey here. I used to do a lot of math 
 
 ## Research Affiliations
 - _Visting Researcher_ (2023 - Present)\
-  [Controlled Quantum Dynamics Theory Group](https://www.imperial.ac.uk/a-z-research/quantum-optics-and-laser-science/research/controlled-quantum-dynamics/), Blackett Laboratory, Imperial College London\
+  [**Controlled Quantum Dynamics Theory Group**](https://www.imperial.ac.uk/a-z-research/quantum-optics-and-laser-science/research/controlled-quantum-dynamics/), Blackett Laboratory, Imperial College London\
   Supervisor: [Myungshik S. Kim](https://profiles.imperial.ac.uk/m.kim)
   
 - _Undergraduate Researcher_ (2017 - 2018)\
