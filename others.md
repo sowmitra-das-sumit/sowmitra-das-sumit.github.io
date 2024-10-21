@@ -8,7 +8,7 @@ Besides my academic interests, I am also an amateur [Tabla](https://www.wikiwand
 
 I am an avid fan of the Pokemon franchise. 
 
-I have a lot of interest in Learning how to Learn, i.e, mastering methods to learn things fast, and Personal Information/Knowledge Management Systems. 
+I have a lot of interest in Learning how to Learn, i.e, mastering methods to learn things fast, and Personal Information/Knowledge Management Systems (PKMS). 
 
 I am also interested in psychotherapeutic interventions to cultivate good mental health and healing. I have a Certification of 80 hours of training in **Basic Counselling Skills** from [Freedom Within, Bangladesh](https://freedomwithinbd.org/). 
 
