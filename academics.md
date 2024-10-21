@@ -14,6 +14,16 @@ I am currently teaching at the School of Data and Sciences at [BRAC University](
   **Digital Signal Processing Research Laboratory**, Bangladesh University of Engineering & Technology\
   Supervisor: [Md. Kamrul Hassan](https://khasan.buet.ac.bd/)
 
+## Work
+- **BRAC University**, School of Data and Sciences\
+  _Senior Lecturer_ (2024 - Present)\
+  _Lecturer_ (2019 - 2022)\
+  I have been teaching _Quantum Computation_, _Quantum Information_, _Electronics_ and _Electrical Circuits_. 
+  
+- **Daffodil International University**, Dept. of Electrical & Elctronic Engineering\
+  _Lecturer_ (2019)\
+  I taught _Microprocessors_, _Digital Signal Processing_, _Electrical Circuits_, _Electronic Circuit Simulation_ and _Intro to Programming_. 
+
 
 ## Education
 
