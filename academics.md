@@ -19,10 +19,9 @@ You can find a synopsis of my academic journey here. I used to do a lot of math 
 - **Imperial College London**\
   *Master of Science*, Applied Mathematics (2022-2023)\
   Grade: Distinction (**85%**)\
-  *Modules:* Quantum Mechanics, Quantum Information, Advanced Quantum Information,\
-             Quantum Computation, Post-Quantum Cryptography, Information Theory, \
-             Optimization, Computational Linear Algebra, Dynamics of Learning and Iterated Games,\
-             Mathematical Foundations of Machine Learning,  Tensor Calculus and General Relativity
+  *Modules:* Quantum Mechanics, Quantum Information, Advanced Quantum Information, Quantum Computation, Information Theory, \
+             Optimization, Post-Quantum Cryptography, Computational Linear Algebra, Dynamics of Learning and Iterated Games, Mathematical Foundations of Machine Learning,\
+             Tensor Calculus and General Relativity
 
 - **Bangladesh University of Engineering & Technology**\
   *Bachelor of Science*, Electrical & Electronic Engineering (2015-2019)\
