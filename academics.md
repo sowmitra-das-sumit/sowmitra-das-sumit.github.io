@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Academics
-You can find a synopsis of my academic journey here. I used to do a lot of math competitions in high school. I studied Electrical Engineering in undergrad (with a focus in Communications, Signal Processing and Electronics). I self-studied most of undergrad Physics during my EE degree, and then shifted to do a Masters in Applied Mathematics. I am currently teaching at the Department of Computer Science & Engineering at BRAC University, and doing research in Quantum Information/Computation. 
+You can find a synopsis of my academic journey here. I hail from Bangladesh. I used to do a lot of math competitions in high school. I studied Electrical Engineering in undergrad (with a focus in Communications, Signal Processing and Electronics) at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/). During that time, I became interested in (theoretical) Physics and self-studied most of the undergrad Physics curriculum alongside my EE degree. I got into Quantum Computing research during my undergraduate dissertation. After all this, I felt that I liked to do Physics and interdisciplinary stuff, but in a more rigorous and math-y setting. So, I went on to do a Masters in Applied Mathematics at [Imperial College London](https://www.imperial.ac.uk/) (with a focus in Quantum Information). I am currently teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/), and doing research in Quantum Information/Computation. I think I have finally found a home in Applied Mathematics, and want to stay along this intersection path of Mathematics and Quantum Computing in the next stages of my academics. 
 
 ## Research Affiliations
 - _Visting Researcher_ (2023 - Present)\
@@ -25,27 +25,30 @@ You can find a synopsis of my academic journey here. I used to do a lot of math 
 
 - **Bangladesh University of Engineering & Technology**\
   *Bachelor of Science*, Electrical & Electronic Engineering (2015-2019)\
-  *CGPA*: **3.85/4.00**\
-  *Concentration:* Major - Communication & Signal Processing, Minor - Electronics
+  CGPA: **3.85/4.00**\
+  Concentration: Major - _Communication & Signal Processing_, Minor - _Electronics_
 
 - **St. Joseph Higher Secondary School**\
   *Secondary School Certificate* (2012)\
-  *GPA*: **5.00/5.00**\
+  GPA: **5.00/5.00**\
   *Higher-Secondary School Certificate* (2014)\
-  *GPA*: **5.00/5.00**
+  GPA: **5.00/5.00**
 
 ## Test Scores
-  - *Physics GRE Subject Test*, Score: **990**/990 (October, 2021)
-  - *TOEFL iBT*, Score: **116**/120 (Reading-30; Listening-28; Speaking-30; Writing-28)
+  - Physics GRE Subject Test, Score: **990**/990 (2021)
+  - TOEFL iBT, Score: **116**/120 (_Reading_-30; _Listening_-28; _Speaking_-30; _Writing_-28) (2021)
 
 ## Awards, Prizes and Scholarships
-  - **Chevening Scholarship**, FCDO, Govt. of Uk (2022-2023)
+  - **Global Champion**, IEEE Video and Image Processing (VIP) Cup, 2017
+  - **Chevening Scholarship**, FCDO, Govt. of UK (2022-2023)
   - **Dean's Fund Award**, Faculty of Natural Sciences, Imperial College London (2023)
-  - **Dean's List Award**, Bangladesh University of Engineering & Technology
-  - **University Merit Scholarship**, Bangladesh University of Engineering & Technology
+  - **Dean's List Award**, Bangladesh University of Engineering & Technology (2015, 2016, 2017)
+  - **University Merit Scholarship**, Bangladesh University of Engineering & Technology (2015, 2017)\
+    <br>
   - Asian Pacific Mathematics Olympiad, **Honorable Mention** (2013, 2014)
   - National Mathematics Olympiad, **1st Runners-Up** (2012)
   - National Science Olympiad, **1st Place** (2012), **2nd Place** (2011, 2014)
+  - Prothom-Alo National Story Writing Competition, **Shortlisted** (2012) 
 
 
 [back](./)
