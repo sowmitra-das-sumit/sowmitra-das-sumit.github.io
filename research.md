@@ -4,11 +4,13 @@ layout: default
 
 ## Research
 
-My research interests (right now) are broadly in all aspects of Quantum Information Theory and Quantum Computation. Currently, I am interested in techniques that can bridge the gap between the Noisy Intermediate-Scale Quantum (NISQ) era and the Fault Tolerance era of Quantum Computing. This includes Quantum Error Correction (QEC), Quantum Error Mitigation (QEM) and ways to combine aspects of both. I am also interested in Hybrid Quantum-Classical Computation, particularly, developing techniques to make use of small scale quantum computers as helpers to classical computers, and explore what computational advantages we can gain in this regime. I am also interested in developing high-level programming primitives that can aide and accelerate the development of next-generation Quantum Algorithms. 
+My research interests (right now) are broadly in all aspects of Quantum Information Theory and Quantum Computation. Currently, I am interested in techniques that can bridge the gap between the Noisy Intermediate-Scale Quantum (NISQ) era and the Fault Tolerance era of Quantum Computing. This includes _Quantum Error Correction_ (QEC), _Quantum Error Mitigation_ (QEM) and ways to combine aspects of both. I am also interested in _Hybrid Quantum-Classical Computation_, particularly, developing techniques to make use of small scale quantum computers as helpers to classical computers, and explore what computational advantages we can gain in this regime. I am also interested in developing _High-Level Quantum Programming_ primitives that can aide and accelerate the development of next-generation Quantum Algorithms. 
 
-Apart from these practical interests, I also have some highly theoretical ones. Particularly... I am interested in exploring the foundations of Thermodynamics. I have also dabbled in Machine Learning, Deep Learning and Neural Networks in the past (with publications in CVPR and IEEE Transactions). 
+Apart from these practical interests, I also have some highly theoretical ones. Particularly... I am interested in exploring the foundations of (phenomenological) Thermodynamics. I have also dabbled in _Machine Learning_, Deep Learning and Neural Networks in the past (with publications in CVPR and IEEE Transactions). 
 
-I am currently running an ad-hoc research group at BRACU, titled **Qu**antum **I**nformation **R**esearch **C**ollaboration (**QuIRC**, pronounced _koo-ark_). Some areas that our work covers - Quantum Error Correction, Learning-based Quantum Error Mitigation, Shadow Tomography, Quantum Neural Networks, Quantum Channel Discrimination, Quantum Superchannels, Entanglement Purification, Quantum Repeaters. If you are interested in collaborating with me, give me an email!
+I am currently running an ad-hoc research group at BRACU, titled **Qu**antum **I**nformation **R**esearch **C**ollaboration, **QuIRC** (pronounced _koo-ark_). Some areas that our current work covers - Quantum Error Correction, Learning-based Quantum Error Mitigation, Shadow Tomography, Quantum Neural Networks, Quantum Channel Discrimination, Quantum Superchannels, Entanglement Purification, Quantum Repeaters. 
+
+If you are interested in collaborating with me, give me an email!
 
 <br>
 
