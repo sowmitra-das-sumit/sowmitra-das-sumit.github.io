@@ -12,6 +12,6 @@ I have a lot of interest in Learning how to Learn, i.e, mastering methods to lea
 
 I am also interested in psychotherapeutic interventions to cultivate good mental health and healing. I have a Certification of 80 hours of training in **Basic Counselling Skills** from [Freedom Within, Bangladesh](https://freedomwithinbd.org/). 
 
-Among my volunteer activities, I was the **Academic Coordinator** of [Bangladesh Physics Olympiad](https://www.bdpho.org/) in 2018, and an **Academic Memeber** of [Bangladesh Mathematical Olympiad](https://matholympiad.org.bd/) from 2015-2017. I currently volunteer as a Quantum Information Mentor at the [Tensor-PSI Winter School for Theoretical Physics](https://tensorcollege.org/tensor-psi-undergraduate-winter-school-for-theoretical-physics/). 
+Among my volunteer activities, I was the **Academic Coordinator** of [Bangladesh Physics Olympiad](https://www.bdpho.org/) in 2018, and an **Academic Memeber** of [Bangladesh Mathematical Olympiad](https://matholympiad.org.bd/) from 2015-2017. I currently volunteer as a **Quantum Information Mentor** at the [Tensor-PSI Winter School for Theoretical Physics](https://tensorcollege.org/tensor-psi-undergraduate-winter-school-for-theoretical-physics/). 
 
 [back](./)
