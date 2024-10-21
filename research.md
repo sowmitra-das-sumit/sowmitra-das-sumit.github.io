@@ -14,7 +14,7 @@ If you are interested in collaborating with me, give me an email!
 
 <br>
 
-  ### Ongoing Projects
+### Ongoing Projects
 - **Learning Quantum Error Mitigation using Classical Shadows**, with Jishnu Mahmud and Shadman Shahriar
 - **Cryptographic Advantage of Quantum Secure Direct Communication**, with Shihan Sajeed
 
