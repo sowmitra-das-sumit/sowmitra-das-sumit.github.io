@@ -32,7 +32,7 @@ If you are interested in collaborating with me, give me an email!
 <br>
 
 ### Preprints
-[Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2305.00368), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
+[Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2407.20173), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
 
 [Quantumizing Classical Games: An Introduction to Quantum Game Theory](https://arxiv.org/abs/2305.00368), **S. Das**, arXiv: 2305.00368 [quant-ph]. 
 
