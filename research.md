@@ -12,9 +12,7 @@ I am currently running an ad-hoc research group at BRACU, titled **Qu**antum **I
 
 If you are interested in collaborating with me, give me an email!
 
-<br>
-
-## Research Affiliations
+### Research Affiliations
 - _Visting Researcher, Theoretical Quantum Information Sciences_ (2023 - Present)\
   [**Controlled Quantum Dynamics Theory Group**](https://www.imperial.ac.uk/a-z-research/quantum-optics-and-laser-science/research/controlled-quantum-dynamics/), Blackett Laboratory, Imperial College London\
   Supervisor: [Myungshik S. Kim](https://profiles.imperial.ac.uk/m.kim)
@@ -23,20 +21,14 @@ If you are interested in collaborating with me, give me an email!
   **Digital Signal Processing Research Laboratory**, Bangladesh University of Engineering & Technology\
   Supervisor: [Md. Kamrul Hassan](https://khasan.buet.ac.bd/)
 
-<br>
-
 ### Ongoing Projects
 - **Learning Quantum Error Mitigation using Classical Shadows**, with Jishnu Mahmud and Shadman Shahriar
 - **Cryptographic Advantage of Quantum Secure Direct Communication**, with Shihan Sajeed
-
-<br>
 
 ### Preprints
 [Purification and correction of quantum channels by commutation-derived quantum filters](https://arxiv.org/abs/2407.20173), **S. Das**, J. Sun, M. Hanks, B. Koczor, M. S. Kim, arXiv: 2305.00368 [quant-ph], July 2024. (Under review in *Physical Review X*.)
 
 [Quantumizing Classical Games: An Introduction to Quantum Game Theory](https://arxiv.org/abs/2305.00368), **S. Das**, arXiv: 2305.00368 [quant-ph]. 
-
-<br>
 
 ### Publications 
 [Design of a quantum repeater using quantum circuits and benchmarking its performance on an IBM quantum computer](https://doi.org/10.1007/s11128-021-03189-8), **S. Das**, M. S. Rahman, and M. Majumdar, *Quantum Information Processing 20*, 245 (2021).
@@ -53,7 +45,5 @@ We propose a training pipeline to design Quantum Error Correction Codes for gene
 
 [An Entropy-based Active-Learning schedule for training Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14809), Mehadi Hasan, Shemonto Das, Shoaib Ahmed\
 We propose a training schedule based on an entropy-based uncertainty metric to reduce the number of iterations and computational cost of training neural networks. 
-
-
 
 [back](./)
