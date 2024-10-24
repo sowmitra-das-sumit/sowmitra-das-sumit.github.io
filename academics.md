@@ -3,12 +3,12 @@ layout: default
 ---
 ## Academics
 You can find a synopsis of my academic journey here. I hail from Bangladesh. I used to do a lot of olympiads and math competitions in high school (which has shaped a large part of how I think and my life-trajectory). I studied Electrical Engineering in undergrad (with a focus in Communications, Signal Processing and Electronics) at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/). During that time, I became interested in (theoretical) Physics and self-studied most of the undergrad Physics curriculum alongside my EE degree. I got into Quantum Computing research during my undergraduate dissertation. After all this, I felt that I liked to do Physics and interdisciplinary stuff, but in a more rigorous and math-y setting. So, I went on to do a Masters in Applied Mathematics at [Imperial College London](https://www.imperial.ac.uk/) (with a focus in Quantum Information).\
-I am currently teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/), and doing research in Quantum Information/Computation. I think I have finally found a home in Applied Mathematics, and want to stay along the intersection of Mathematics and Quantum Computing in the next stages of my academic life. 
+I am currently teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/), and doing research in Quantum Information/Computation. I think I have finally found a home in Applied Mathematics, and want to stay along the intersection of Mathematics and Quantum Computing in the next stages of my academic career. 
 
 ## Work
 - **BRAC University**, School of Data and Sciences\
-  _Senior Lecturer_ (2024 - Present), _Lecturer_ (2019 - 2022)\
-  _EEE Course Coordinator_ (2019-2020)\
+  _Senior Lecturer_ (2024 - Present),
+  _Lecturer_ (2019 - 2022), _EEE Course Coordinator_ (2019-2020)\
   I have been teaching _Quantum Computation_, _Quantum Information_, _Electronics_ and _Electrical Circuits_. In the past, I have also led the Administrative Team of EEE Courses in the deprtment. 
   
 - **Daffodil International University**, Dept. of Electrical & Elctronic Engineering\
