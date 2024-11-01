@@ -7,7 +7,7 @@ I am currently teaching at the School of Data and Sciences at [BRAC University](
 
 ## Work
 - **BRAC University**, School of Data and Sciences\
-  _Senior Lecturer_ (2024 - Present),
+  _Senior Lecturer_ (2024 - Present)\
   _Lecturer_ (2019 - 2022), _EEE Course Coordinator_ (2019-2020)\
   I have been teaching _Quantum Computation_, _Quantum Information_, _Electronics_ and _Electrical Circuits_. In the past, I have also led the Administrative Team of EEE Courses in the deprtment. 
   
