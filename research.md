@@ -41,9 +41,9 @@ If you are interested in collaborating with me, give me an email!
 
 ### (Supervised) Undergraduate Dissertations
 [Quantum Error Correction using Quantum Convolutional Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14966), Niloy Deb Roy, Ridwan Shihab, Mekhala Marium, Fatema Islam Meem, Mushfiqur Rahman Heemel\
-We propose a training pipeline to design Quantum Error Correction Codes for generalized noise models using Quantum Convolutional Neural Networks. 
+- We proposed a training pipeline to design Quantum Error Correction Codes for generalized noise models using Quantum Convolutional Neural Networks. 
 
 [An Entropy-based Active-Learning schedule for training Neural Networks](http://dspace.bracu.ac.bd/xmlui/handle/10361/14809), Mehadi Hasan, Shemonto Das, Shoaib Ahmed\
-We propose a training schedule based on an entropy-based uncertainty metric to reduce the number of iterations and computational cost of training neural networks. 
+- We proposed a training schedule based on an entropy-based uncertainty metric to reduce the number of iterations and computational cost of training neural networks. 
 
 [back](./)
