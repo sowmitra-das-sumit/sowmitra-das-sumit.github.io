@@ -8,6 +8,8 @@ I have been teaching at the School of Data and Sciences at [BRAC University](htt
 
 <br>
 
+#### CSE490: Quantum Computing III
+2025 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVg8cIDjmf3c2MK8sMZ5nSlG&si=3kSyt0wGVprRSd16), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVi2JA2PUmtt6ol_xV2xtK2-&si=h9om5HyJhaqnCCA4)\
 #### CSE482: Quantum Computing II
 2024 Fall: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVgbqsYbL_tsBJnFaTFYB9T3&si=kD-zuhsnR1xkfjjG), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqViFgfpgN8oh9T4ia80_MZz5&si=3nd72fnGAv1VtCZk)\
 2024 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT&si=8Rt2N6TXlppnJrz3), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT&si=hYdKyiK2taefL-HB), [Notes](https://www.overleaf.com/read/dtxxdftjsfqt#837308)
