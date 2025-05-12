@@ -15,7 +15,7 @@ If you are interested in collaborating with me, give me an email!
 ### Research Affiliations
 - _Visting Researcher, Theoretical Quantum Information Sciences_ (2023 - Present)\
   [**Controlled Quantum Dynamics Theory Group**](https://www.imperial.ac.uk/a-z-research/quantum-optics-and-laser-science/research/controlled-quantum-dynamics/), Blackett Laboratory, Imperial College London\
-  Supervisor: [Myungshik S. Kim](https://profiles.imperial.ac.uk/m.kim)
+  Supervisor: [Myungshik Kim](https://profiles.imperial.ac.uk/m.kim)
   
 - _Undergraduate Researcher_ (2017 - 2018)\
   **Digital Signal Processing Research Laboratory**, Bangladesh University of Engineering & Technology\
