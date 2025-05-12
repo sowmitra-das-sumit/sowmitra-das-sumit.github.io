@@ -3,7 +3,7 @@ layout: default
 ---
 ## Academics
 You can find a synopsis of my academic journey here. I hail from Bangladesh. I used to do a lot of olympiads and math competitions in high school (which has shaped a large part of my life-trajectory and how I think). I studied Electrical Engineering in undergrad (with a focus in Communications, Signal Processing and Electronics) at [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/). During that time, I became interested in (theoretical) Physics and self-studied most of the undergrad Physics curriculum alongside my EE degree. I got into Quantum Computing research during my undergraduate dissertation. After all this, I felt that I liked to do Physics and interdisciplinary stuff, but in a more rigorous and math-y setting. So, I went on to do a Masters in Applied Mathematics at [Imperial College London](https://www.imperial.ac.uk/) (with a focus in Quantum Information).\
-I am currently teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/), and doing research in Quantum Information/Computation. I think I have finally found a home in Applied Mathematics, and want to stay along the intersection of Mathematics and Quantum Computing in the next stages of my academic career. 
+I am currently teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/), and doing research in Quantum Information/Computation. I think I have finally found a home in Applied Mathematics, and want to stay along the intersection of Mathematics and Quantum Computing in the next stages of my academic journey. 
 
 ## Work
 - **BRAC University**, School of Data and Sciences\
