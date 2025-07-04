@@ -18,6 +18,7 @@ I have been teaching (intermittently) at the School of Data and Sciences at [BRA
 2024 Fall: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVgbqsYbL_tsBJnFaTFYB9T3&si=kD-zuhsnR1xkfjjG), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqViFgfpgN8oh9T4ia80_MZz5&si=3nd72fnGAv1VtCZk)\
 2024 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT&si=8Rt2N6TXlppnJrz3), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT&si=hYdKyiK2taefL-HB), [Notes](https://www.overleaf.com/read/dtxxdftjsfqt#837308)
 #### CSE481/CSE490.2: Quantum Computing I
+2025 Spring: [Lectures, Tutorials](https://youtube.com/playlist?list=PL-lCYwFS3hp2wAh68fFTTnFKaoKBWEux3&si=ECITfVXGKP6BdcHh)
 2024 Fall: [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqViTbxXwvjvkkY5Sf55eNT28&si=b3cWQK-cebyzZkpm)\
 2024 Summer: [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz&si=2IcmmY5cVnr8wur1)\
 2020 Summer: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn&si=RiyooGTnwY2IojXv), [Videos](https://youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb&si=-PETH2xR8QmGPRZr), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVhABt-6D1R6njy9k2kVHz8-&si=baaqFvOy3ursywUF) 
