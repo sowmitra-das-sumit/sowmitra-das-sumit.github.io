@@ -9,7 +9,7 @@ I have been teaching at the School of Data and Sciences at [BRAC University](htt
 <br>
 
 #### CSE402: Optimization
-2025 Summer: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViz_oFZ4sBwTt9NFF1KIXkY&si=i5snjWkEKT8i-ZGL), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVgzcXqjwGQu8SKL0_3GQneY&si=ilPgSSvn136wX6oC), [Notes](https://www.overleaf.com/read/ytwcnzrnqdhw#dbca5f)\
+2025 Summer: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViz_oFZ4sBwTt9NFF1KIXkY&si=i5snjWkEKT8i-ZGL), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVgzcXqjwGQu8SKL0_3GQneY&si=ilPgSSvn136wX6oC)\
 2025 Spring: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqViiKlYFzcMcZaCkileScWhV&si=scyrnGLeMdM1spT6), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVjAKWex0kYDGc-TPEjCZAEH&si=ouIunPPIliX7taq2), [Notes](https://www.overleaf.com/read/ytwcnzrnqdhw#dbca5f)
 #### CSE490: Quantum Computing III
 2025 Summer: [Lectures](https://youtube.com/playlist?list=PLvj5w6iNZqVhewCDNmeFX3D0fxpZrmbvI&si=Y9as09fWKCQzjLfv), [Tutorials](https://youtube.com/playlist?list=PLvj5w6iNZqVjQz4qHaLEWXhzkRp-_Zwx1&si=5tVljSfNC4PnTbCU)\
