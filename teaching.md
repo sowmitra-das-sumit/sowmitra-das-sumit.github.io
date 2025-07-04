@@ -4,7 +4,7 @@ layout: default
 
 ## Teaching
 
-I have been teaching at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/) since September, 2019. You can find below the course materials for the various courses I have taught. All of my lecture videos are available in my YouTube Channel [Rough Khata](https://www.youtube.com/@raf-khata) (which is the bengali for "scratch paper"). 
+I have been teaching (intermittently) at the School of Data and Sciences at [BRAC University](https://www.bracu.ac.bd/) since September, 2019. You can find below the course materials for the various courses I have taught. All of my lecture videos are available in my YouTube Channel [Rough Khata](https://www.youtube.com/@raf-khata) (which is the bengali for "scratch paper"). 
 
 <br>
 
